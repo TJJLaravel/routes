@@ -1,0 +1,14 @@
+{
+    "name": "tjjlaravel/routes",
+    "description": "easier get routing",
+    "type": "module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tangjajia",
+            "email": "584231366@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
