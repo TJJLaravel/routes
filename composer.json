@@ -10,5 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/database"
+        ],
+        "psr-4": {
+            "TJJLaravel\\Routes": "src/"
+        }
+    },
     "require": {}
 }
